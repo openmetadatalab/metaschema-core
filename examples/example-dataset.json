@@ -1,0 +1,25 @@
+{
+  "id": "dataset-001",
+  "title": "Global Airports Dataset",
+  "description": "A structured dataset of airports worldwide.",
+  "version": "1.0.0",
+  "created": "2026-06-16T00:00:00Z",
+  "creators": [
+    "OpenMetadataLab"
+  ],
+  "license": "CC BY 4.0",
+  "tags": [
+    "aviation",
+    "travel",
+    "datasets"
+  ],
+  "provenance": {
+    "source": "public aviation authority data"
+  },
+  "citations": [
+    "ICAO Data Registry"
+  ],
+  "links": [
+    "https://example.org/datasets/airports"
+  ]
+}
